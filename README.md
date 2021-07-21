@@ -6,4 +6,4 @@ You must get a steam api key which is explained if you just press enter when it 
 When you have a validated api key just select the 1st option and enter a users steam id, or User Name.
 
 # Screenshot
-![Screenshot of program](https://cdn.discordapp.com/attachments/803117716243873817/867549241706545182/unknown.png]
+![ScreenshotOfProgram](https://cdn.discordapp.com/attachments/803117716243873817/867549241706545182/unknown.png "Program SS")
